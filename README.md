@@ -60,9 +60,3 @@ The high accuracy suggests that nutritional data is an excellent predictor for f
 * **Libraries:** Scikit-learn, Pandas, Matplotlib/Seaborn
 
 ---
-
-This project taught me a lot about data preprocessing, feature engineering (using PCA), and model evaluation. The final model could be a great tool for smart dietary apps and health monitoring systems.
-
-Check out the full project code and report on GitHub: [Link to your GitHub repository]
-
-#MachineLearning #DataScience #Python #NutriClass #FoodClassification #ScikitLearn #GitHub #Project #Analytics #AI #Innovation
