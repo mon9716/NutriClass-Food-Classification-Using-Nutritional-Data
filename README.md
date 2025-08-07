@@ -61,16 +61,6 @@ The high accuracy suggests that nutritional data is an excellent predictor for f
 
 ---
 
-## LinkedIn Post 🚀
-
-**Subject Line:** Thrilled to share my latest Machine Learning project: NutriClass!
-
-**Body:**
-
-I'm excited to announce the completion of my project, **NutriClass: Food Classification Using Nutritional Data**.
-
-Using a dataset of nutritional information, I developed a robust machine learning model that accurately classifies food items into various categories. I explored a range of classifiers, including Random Forest, XGBoost, and SVM, and found the **Random Forest Classifier** to be the most effective, achieving an impressive accuracy of **88.62%**.
-
 This project taught me a lot about data preprocessing, feature engineering (using PCA), and model evaluation. The final model could be a great tool for smart dietary apps and health monitoring systems.
 
 Check out the full project code and report on GitHub: [Link to your GitHub repository]
